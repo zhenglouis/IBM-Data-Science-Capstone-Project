@@ -2,7 +2,6 @@
 
 * Business Object
 <br>The main idea of the capstone project is to find out the best area for running a restaurant. That would base on the exploration of Halifax city which in an eastern province, Nova Scotia, Canada.
-<br>
 * Data Souce
 <br>First scrapping from Wikipidia via BeautifulSoup package and combined with coordinates captured from Geocoder package. Then passing the coordinates to Foursquare database for exploring.
 * Methodology
