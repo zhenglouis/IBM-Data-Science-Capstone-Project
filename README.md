@@ -8,3 +8,4 @@ First scrapping from Wikipidia via BeautifulSoup package and combined with coord
 Unsupervised machine learning K-means clustering was applied and Euclidean distance used for calcualting the initiate K value.
 ## Deliverable
 The best communities for starting up restaurant are found by comparing the restaurant supply with limitation that lack of consideration of local or visitor population, and result could be with bias.
+<br> For detail analysis please refer to Capstone Project Report and the main code.
